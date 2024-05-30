@@ -1,0 +1,1 @@
+# loja-DESIGN-PATTERNS
